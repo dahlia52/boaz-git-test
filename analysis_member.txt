@@ -5,3 +5,4 @@ member
 - Lim Saeun
 - Song Yeojin
 - An Soyou
+- analysis
